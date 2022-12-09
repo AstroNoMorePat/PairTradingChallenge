@@ -17,6 +17,6 @@ LikelyPairStocks_ML.txt -- List of potential pair trading stocks identified usin
 
 FinalStrategyTest.ipynb -- Takes the target pairs from LikelyPairStocks.txt and LikelyPairStocks_ML.txt and computes how they perform in practice during the final year of test data
 
-Note that the project also includes several large csv files and a SQL db file too large to hosot here.
+Note that the project also includes several large csv files and a SQL db file too large to host here.
 Running the included notebooks without these pre-computed files will be a fairly lengthy process (probably about 36 hours of wall time), so if you have need to replicate these results don't hesitate to reach out.
 I would be happy to provide you with the pre-computed files and save you a good bit of time.
