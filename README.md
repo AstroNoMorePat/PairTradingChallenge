@@ -1,5 +1,5 @@
 # Vallely-Patrick-16-02-2022
-Agnostic Pair Trading Investment Challenge
+Agnostiq Pair Trading Investment Challenge
 
 AgnostiqExecutiveSummary.pdf -- A write-up of the project and summary of its primary results and practical recommendations
 
